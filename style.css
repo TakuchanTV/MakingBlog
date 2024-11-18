@@ -8,3 +8,15 @@ span{
 .contents{
     font-size: 20px;
 }
+
+body{
+    background-color: rgb(104, 158, 145);
+}
+
+.first-div{
+  margin-top: 70px;
+}
+
+.second-div{
+    margin-top: 40px;
+}
